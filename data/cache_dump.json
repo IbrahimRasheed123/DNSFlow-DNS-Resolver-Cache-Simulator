@@ -1,0 +1,79 @@
+[
+  {
+    "domain": "google.com",
+    "record_type": "A",
+    "records": [
+      "192.178.211.113",
+      "192.178.211.139",
+      "192.178.211.101",
+      "192.178.211.102",
+      "192.178.211.138",
+      "192.178.211.100"
+    ],
+    "original_ttl": 174,
+    "configured_ttl": 174,
+    "remaining_ttl": 171,
+    "status": "ACTIVE",
+    "created_at": "18:28:31",
+    "expires_at": "18:31:25",
+    "upstream_server": "System Default"
+  },
+  {
+    "domain": "github.com",
+    "record_type": "A",
+    "records": [
+      "20.207.73.82"
+    ],
+    "original_ttl": 60,
+    "configured_ttl": 60,
+    "remaining_ttl": 57,
+    "status": "ACTIVE",
+    "created_at": "18:28:31",
+    "expires_at": "18:29:31",
+    "upstream_server": "System Default"
+  },
+  {
+    "domain": "cloudflare.com",
+    "record_type": "AAAA",
+    "records": [
+      "2606:4700::6810:85e5",
+      "2606:4700::6810:84e5"
+    ],
+    "original_ttl": 205,
+    "configured_ttl": 205,
+    "remaining_ttl": 204,
+    "status": "ACTIVE",
+    "created_at": "18:28:33",
+    "expires_at": "18:31:58",
+    "upstream_server": "System Default"
+  },
+  {
+    "domain": "wikipedia.org",
+    "record_type": "MX",
+    "records": [
+      "10 mx-in1001.wikimedia.org.",
+      "10 mx-in2001.wikimedia.org."
+    ],
+    "original_ttl": 300,
+    "configured_ttl": 300,
+    "remaining_ttl": 299,
+    "status": "ACTIVE",
+    "created_at": "18:28:34",
+    "expires_at": "18:33:34",
+    "upstream_server": "System Default"
+  },
+  {
+    "domain": "google.com",
+    "record_type": "MX",
+    "records": [
+      "10 smtp.google.com."
+    ],
+    "original_ttl": 300,
+    "configured_ttl": 300,
+    "remaining_ttl": 299,
+    "status": "ACTIVE",
+    "created_at": "18:28:34",
+    "expires_at": "18:33:34",
+    "upstream_server": "System Default"
+  }
+]

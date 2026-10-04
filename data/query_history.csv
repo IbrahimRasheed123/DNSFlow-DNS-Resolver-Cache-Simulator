@@ -1,0 +1,9 @@
+index,timestamp,domain,record_type,hit_status,response_time_ms,status,server,records,ttl
+1,18:28:31,google.com,A,MISS,169.67,SUCCESS,System Default,"192.178.211.113, 192.178.211.139 (+4 more)",174
+2,18:28:31,google.com,A,HIT,0.1,SUCCESS,System Default (Cached),"192.178.211.113, 192.178.211.139 (+4 more)",174
+3,18:28:31,github.com,A,MISS,113.87,SUCCESS,System Default,20.207.73.82,60
+4,18:28:31,github.com,A,HIT,0.1,SUCCESS,System Default (Cached),20.207.73.82,60
+5,18:28:33,cloudflare.com,AAAA,MISS,2057.72,SUCCESS,System Default,"2606:4700::6810:85e5, 2606:4700::6810:84e5",205
+6,18:28:34,wikipedia.org,MX,MISS,312.55,SUCCESS,System Default,"10 mx-in1001.wikimedia.org., 10 mx-in2001.wikimedia.org.",300
+7,18:28:34,google.com,MX,MISS,89.53,SUCCESS,System Default,10 smtp.google.com.,300
+8,18:28:34,google.com,MX,HIT,0.1,SUCCESS,System Default (Cached),10 smtp.google.com.,300
