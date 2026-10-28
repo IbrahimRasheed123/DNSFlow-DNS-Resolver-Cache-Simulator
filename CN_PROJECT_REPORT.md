@@ -245,3 +245,6 @@ The **DNS Resolver & DNS Cache Simulator** successfully fulfills all operational
 4. Tanenbaum, A. S., Wetherall, D. J., & Feamster, N. (2021). *Computer Networks* (6th ed.). Pearson.
 5. dnspython documentation: https://www.dnspython.org/
 6. CustomTkinter documentation: https://github.com/TomSchimansky/CustomTkinter
+
+
+
